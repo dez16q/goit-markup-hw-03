@@ -1,0 +1,148 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #ffffff;
+  color: 434455;
+}
+
+
+.list {
+  list-style-type: none;
+  font-style: normal;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.web-logo {
+  color: #4d5ae5;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.studio-logo {
+  color: #2e2f42;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  color: #2e2f42;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.nav-link:hover,
+.nav-link:focus {
+  color: #404bbf;
+}
+
+address {
+  font-style: normal;
+}
+.contact {
+  color: 434455;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.contact:hover,
+.contact:focus {
+  color: #404bbf;
+}
+
+.hero {
+  background-color: #2e2f42;
+}
+.hero-title {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+}
+
+.button-hero {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+.button-hero:hover,
+.button-hero:focus {
+  background-color: #404bbf;
+  cursor: pointer;
+}
+
+.title-features {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.text {
+  color: #434455;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.title {
+  color: #2e2f42;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+
+.comand {
+  background-color: #f4f4fd;
+}
+.comand-nav-list {
+  background-color: #ffffff;
+}
+
+.footer-element {
+  background-color: #2e2f42;
+  color: #f4f4fd;
+  text-transform: uppercase;
+}
+.footer-logo {
+  color: #f4f4fd;
+  text-transform: uppercase;
+}
+
+.button-portfolio {
+  color: #4d5ae5;
+  background-color: #f4f4fd;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+.button-portfolio:hover,
+.button-portfolio:focus {
+  color: #ffffff;
+  background-color: #404bbf;
+  cursor: pointer;
+}
+
